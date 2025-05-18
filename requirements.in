@@ -1,0 +1,9 @@
+fastapi
+sentence-transformers
+uvicorn
+pandas
+numpy
+python-dotenv
+pydantic
+google-generativeai
+joblib
