@@ -6,6 +6,5 @@ pandas
 numpy
 python-dotenv
 pydantic
-pickle
 google-generativeai
 joblib
